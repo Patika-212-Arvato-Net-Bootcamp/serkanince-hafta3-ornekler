@@ -1,4 +1,3 @@
 # ArvatoBootcampAPI
 
-Üçüncü hafta yapılan, Web API, In-Memory Data Sınıfı, EF Core Context ve eksininde başlıklarında anlattığım bazı örnek kodlar
-
+Üçüncü hafta ve dördüncü haftada dersler işlenen kodları içerir ; Web API, In-Memory Data Sınıfı, EF Core Context, Redis, JWT ve OOP 
