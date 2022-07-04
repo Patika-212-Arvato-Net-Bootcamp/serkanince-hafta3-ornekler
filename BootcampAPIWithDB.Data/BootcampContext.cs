@@ -20,6 +20,8 @@ namespace BootcampAPIWithDB.Data
 
         public DbSet<ParticipantEntity> Participants { get; set; }
 
+        public DbSet<UserEntity> Users { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
            => optionsBuilder.UseNpgsql("Host=localhost;Database=Bootcamp;Username=postgres;Password=nova");
     }
